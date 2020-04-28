@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: EMF FeatureMap
-category: Eclipse
+title: "EMF FeatureMap"
+layout: post
+date:   2015-07-02 00:18:23 +0700
+categories: [eclipse]
 ---
 
 ### 前言

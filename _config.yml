@@ -1,4 +1,4 @@
-title: Ecsoya's Blog
+title: Blogs
 description: Easier & Better
 author: AngryRED
 github: https://github.com/ecsoya
@@ -15,28 +15,18 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
+    - icon: fa-weixin
       link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
+    - icon: fa-qq
       link: "#"
     - icon: fa-github
       link: "https://github.com/ecsoya"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://ecsoya.github.io"
 baseurl: ""

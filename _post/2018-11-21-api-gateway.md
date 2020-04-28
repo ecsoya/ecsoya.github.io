@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: 腾讯云API网关实践
-category: 腾讯云
+layout: post
+date:   2018-11-21 00:18:23 +0700
+categories: [scf]
+title: "腾讯云API网关实践"
 ---
 
 > API 网关（API Gateway）是 API 托管服务，提供 API 的完整生命周期管理，包括创建、维护、发布、运行、下线等。您可使用 API Gateway 

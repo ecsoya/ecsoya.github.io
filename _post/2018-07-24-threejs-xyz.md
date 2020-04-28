@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: Three.js坐标转换
-category: Java Script
+layout: post
+date:   2018-07-24 00:18:23 +0700
+categories: [js]
+title: "Three.js坐标转换"
 ---
 
  有些情况下，我们可能需要获取Three中物体在屏幕上显示的大小。

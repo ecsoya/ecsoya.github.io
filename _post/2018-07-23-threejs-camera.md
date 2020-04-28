@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: Three.js移动相机
-category: Java Script
+layout: post
+date:   2018-07-23 00:18:23 +0700
+categories: [js]
+title: "Three.js移动相机"
 ---
 
  移动相机照到物体上是Three中一个常用的功能。

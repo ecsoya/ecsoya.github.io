@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: Drawing Gradient in Draw2d
-category: Eclipse
+layout: post
+date:   2015-07-13 00:18:23 +0700
+categories: [eclipse]
+title: "Drawing Gradient in Draw2d"
 ---
 
 一个在Draw2d Figure上画渐进色的示例：
