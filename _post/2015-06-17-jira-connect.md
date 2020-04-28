@@ -1,7 +1,8 @@
 ---
-layout: ecsoya
-title: 基于Play的JIRA插件开发小结
-category: Java
+layout: post
+title: "基于Play的JIRA插件开发小结"
+date:   2015-06-17 00:18:23 +0700
+categories: [java]
 ---
 
 公司除了Eclipse插件，也有做[JIRA](https://www.atlassian.com/software/jira)的插件[Gantt Chart Project for JIRA](http://www.jiraproject.com/)。自从JIRA Cloud（Atlassian Cloud）发布之后，我们就在研究如何去开发JIRA Cloud上面的插件。JIRA Cloud插件又叫做Jira Connect Add-on。
