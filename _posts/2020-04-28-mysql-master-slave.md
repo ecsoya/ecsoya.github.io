@@ -2,7 +2,7 @@
 layout: post
 date:   2019-11-16
 categories: [mysql, docker]
-title: "Spring Fabric Gateway"
+title: "基于docker部署MySQL读写分离库"
 ---
 
 # 基于docker部署MySQL读写分离库
