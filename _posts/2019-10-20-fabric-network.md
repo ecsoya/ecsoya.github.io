@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-10-20 00:18:23 +0700
+date:   2019-10-20
 categories: [fabric]
 title: "Hyperledger Fabric区块链网络的几种部署方案"
 ---
