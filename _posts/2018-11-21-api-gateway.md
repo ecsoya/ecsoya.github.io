@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2018-11-21 00:18:23 +0700
+date:   2018-11-21
 categories: [scf]
 title: "腾讯云API网关实践"
 ---

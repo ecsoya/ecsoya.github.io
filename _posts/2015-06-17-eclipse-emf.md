@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eclipse EMF"
-date:   2015-06-17 00:18:23 +0700
+date:   2015-06-17
 categories: [eclipse]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "基于Play的JIRA插件开发小结"
-date:   2015-06-17 00:18:23 +0700
+date:   2015-06-17
 categories: [java]
 ---
 

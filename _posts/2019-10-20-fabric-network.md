@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-10-20
-categories: [fabric]
+categories: [hyperledger]
 title: "Hyperledger Fabric区块链网络的几种部署方案"
 ---
 最近，在做一个区块链溯源的项目，有空学习了一下时下流行的区块链框架Hyperledger Fabric。和旨在打造公有链为主的比特币和以太坊相比，Hyperledger Fabric更多的是实现私有链和联盟链，更适合企业和联盟去打造区块链即服务的BAAS平台。

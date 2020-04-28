@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2015-07-13 00:18:23 +0700
+date:   2015-07-13
 categories: [eclipse]
 title: "Drawing Gradient in Draw2d"
 ---

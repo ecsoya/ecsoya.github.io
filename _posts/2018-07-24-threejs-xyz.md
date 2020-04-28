@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2018-07-24 00:18:23 +0700
+date:   2018-07-24
 categories: [js]
 title: "Three.js坐标转换"
 ---

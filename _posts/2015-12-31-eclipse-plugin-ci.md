@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2015-12-31 00:18:23 +0700
+date:   2015-12-31
 categories: [eclipse]
 title: "Eclipse Plugin CI: Tycho + Github + Travis CI"
 ---

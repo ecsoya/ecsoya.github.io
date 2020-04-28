@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2018-07-23 00:18:23 +0700
+date:   2018-07-23
 categories: [js]
 title: "Three.js移动相机"
 ---

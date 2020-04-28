@@ -1,7 +1,7 @@
 ---
 title: "EMF FeatureMap"
 layout: post
-date:   2015-07-02 00:18:23 +0700
+date:   2015-07-02
 categories: [eclipse]
 ---
 
