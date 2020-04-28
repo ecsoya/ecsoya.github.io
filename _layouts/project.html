@@ -56,6 +56,10 @@ layout: default
               <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
             {% endif %}
             <span class="project-timeline">{{ i.date }}</span>
+            <div class="btn-github" style="float:right;">
+	            <iframe src="https://ghbtns.com/github-btn.html?user=ecsoya&repo={{i.slug}}&type=star&count=true" frameborder="0" scrolling="0" width="100" height="20px"></iframe>
+	            <iframe src="https://ghbtns.com/github-btn.html?user=ecsoya&repo={{i.slug}}&type=fork&count=true" frameborder="0" scrolling="0" width="100" height="20px"></iframe>
+          	</div>
           </div>
         </div>
         <hr>
