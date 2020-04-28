@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-11-16
-categories: [fabric]
+categories: [hyperledger]
 title: "Spring Fabric Gateway"
 post.url: https://ecsoya.github.io/fabric/
 ---
