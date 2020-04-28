@@ -15,10 +15,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-fa-thumbs-up
+    - icon: fa-thumbs-up
       link: "https://www.toutiao.com/c/user/4212741055/#mid=1602850500081668"
     - icon: fa-github
       link: "https://github.com/ecsoya"
+    - icon: fa-envelope
+      link: "mailto:angryred@163.com"
 
 urls:
     - text: About Me

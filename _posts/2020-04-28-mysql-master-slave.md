@@ -5,8 +5,6 @@ categories: [mysql, docker]
 title: "基于docker部署MySQL读写分离库"
 ---
 
-# 基于docker部署MySQL读写分离库
-
 本文记录：如何通过docker搭建本地的MySQL读写分离库。
 
 ### 第一步，创建mysql的工作目录
