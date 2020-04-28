@@ -1,4 +1,4 @@
-title: Blogs
+title: Articles
 description: Easier & Better
 author: AngryRED
 github: https://github.com/ecsoya
@@ -15,10 +15,8 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-weixin
-      link: "#"
-    - icon: fa-qq
-      link: "#"
+    - icon: fa-fa-thumbs-up
+      link: "https://www.toutiao.com/c/user/4212741055/#mid=1602850500081668"
     - icon: fa-github
       link: "https://github.com/ecsoya"
 

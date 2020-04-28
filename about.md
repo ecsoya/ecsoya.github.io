@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Java programmer.
+Java programmer...
 
-email: jin.liu[at]soyatec.com
+email: angryred@163.com
