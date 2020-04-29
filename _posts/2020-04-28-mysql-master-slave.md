@@ -11,13 +11,13 @@ title: "基于docker部署MySQL读写分离库"
 
 分别为主库和从库创建配置目录及工作目录等。
 
-主库：
+	主库：
 	mysql
 		- master
 			- conf
 			- data
 			- logs
-从库：
+	从库：
 	mysql
 		- slave
 			- conf
@@ -26,7 +26,7 @@ title: "基于docker部署MySQL读写分离库"
 		
 ### 第二步，添加配置文件
 
-1. 在主库目录master/conf目录下，创建文件```my.cnf```，并加入以下内容
+1- 在主库目录master/conf目录下，创建文件```my.cnf```，并加入以下内容
 
 ```
 [mysqld]
@@ -34,7 +34,7 @@ log-bin=mysql-bin
 server-id=1
 ```
 
-2. 在从库目录slave/conf目录下，创建文件```my.cnf```，并加入以下内容
+2- 在从库目录slave/conf目录下，创建文件```my.cnf```，并加入以下内容
 
 ```
 [mysqld]
@@ -68,7 +68,7 @@ docker run --restart=always -p 3308:3306 -v /mysql/slave/conf:/etc/mysql -v /mys
 
 ### 第五步，主库设置
 
-1. 创建并授权从库同步用户
+1- 创建并授权从库同步用户
 
 通过客户端或命令行连接主库，然后运行命令：
 
@@ -78,7 +78,7 @@ GRANT REPLICATION SLAVE ON *.* to 'user'@'%' identified by 'mysql';
 
 这样，就在主库中创建了一个密码为“mysql”的“user”用户。
 
-2. 查询主库的binlog信息，并记录。
+2- 查询主库的binlog信息，并记录。
 
 运行命令：
 
