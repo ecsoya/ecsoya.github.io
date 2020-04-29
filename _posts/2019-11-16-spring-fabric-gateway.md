@@ -6,4 +6,4 @@ title: "Spring Fabric Gateway"
 url: https://ecsoya.github.io/fabric/
 ---
 
-[基于Spring的Fabric区块链Gateway](https://ecsoya.github.io/fabric/)
+详细内容请参考《Fabric开发手册》[基于Spring的Fabric区块链Gateway](https://ecsoya.github.io/fabric/)
