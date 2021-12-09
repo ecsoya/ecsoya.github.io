@@ -94,13 +94,29 @@ show master status;
 
 ### 第六步，从库设置
 
-通过客户端或命令行连接从库，然后运行命令：
+通过客户端或命令行连接从库，然后运行命令，从库中的同步信息：
 
 ```
 change master to master_host='127.0.0.1', master_user='user', master_log_file='mysql-bin.000003', master_log_pos=429, master_port=3307, master_password='mysql';
 ``` 
 
+最后，启动从库同步：
+
+```
+start slave;
+```
+
 运行成功后，主从库就配置好了。
+
+### 最后
+
+查看从库的运行状态：
+
+```
+show slave status \G;
+```
+
+SlaveIORunning 和 SlaveSQLRunning 都是Yes，说明主从复制已经开启。
 
 ### 后记
 
